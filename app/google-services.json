@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192321872808",
+    "firebase_url": "https://be-kinder-default-rtdb.firebaseio.com",
+    "project_id": "be-kinder",
+    "storage_bucket": "be-kinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192321872808:android:be8010072e8eb5b0fff39d",
+        "android_client_info": {
+          "package_name": "com.be.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192321872808-qs6kk0643i5f6tdi7bklobampelomvak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZHAzP_Mq6fwJtMfVhuWZNnLMa4TqlrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192321872808-qs6kk0643i5f6tdi7bklobampelomvak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192321872808-psj5iu5d8fbolftslt564p5nqulucsao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.be.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
